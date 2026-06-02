@@ -1,0 +1,372 @@
+---
+name: supply_analysis
+description: Framework for analyzing the supply side of an industry — competitors, margins, market share, market structure, capacity/capex, and disruption from new entrants or new technology.
+summary: |
+  Step 1: Identify Competitors: who competes?
+  Step 2: Compare Competitors' Margins & Financials: who has the structural advantage?
+  Step 3: Market Share & Structure: how concentrated is the market, and who leads?
+  Step 4: Product Differentiation: is the product differentiated or a commodity?
+  Step 5: Historical Change in Share & Structure: which way is the market moving?
+  Step 6: Industry Capex & Capacity: is new supply coming?
+  Step 7: Disruption — New Entrants & New Technology: what could reshape the industry?
+---
+
+When the user asks about a company's competitors, competitive positioning, market share, market structure, industry capacity, or disruption risk, use this framework. The goal is to understand the supply side of the industry: who competes, who has the structural advantage, how concentrated the market is, where it's heading, and what could reshape it. Analyze in seven steps.
+
+## Step 1: Identify Competitors
+
+**Key question: who competes?**
+
+Map the competitive set before anything else — you can't benchmark or size share without knowing the players. Span large and small, public and private. 
+
+| Competitor Type | When It Matters |
+|---|---|
+| **Direct** (same product, same market) | Core set — always start here |
+| **Adjacent** (different product, overlapping customer) | When substitutes matter or the industry is converging |
+| **Upstream / downstream** (vertical integrators) | When a supplier or customer could enter the market |
+| **International** (not yet domestic) | When evaluating future competitive threats |
+
+**How to assess:**
+- Identify the competitors, then confirm each peer's segments.
+- Check filings and transcripts for management's own view of competitors.
+- Check industry sources for private and international players the peer set misses.
+- Build a list of 4–6 players.
+
+---
+
+## Step 2: Compare Competitors' Margins & Financials
+
+**Key question: what are evidences of structural advantages?**
+
+Benchmark financials across the set. Persistent margin differences are the strongest evidence of a competitive moat; convergence signals an eroding one.
+GROSS MARGIN is the most important.
+
+| Metric | What It Reveals |
+|---|---|
+| Revenue & 3–5y CAGR | Who is gaining scale and momentum |
+| Gross margin | Pricing power and input-cost advantage |
+| ROIC | Capital efficiency — value created per dollar deployed |
+
+| Signal | Interpretation |
+|---|---|
+| Leader's gross margin 10+ pts above median | Strong pricing power / cost advantage — likely moat |
+| Margins diverging (leaders up, laggards down) | Winner-take-more — structural advantage strengthening |
+| Margins converging across players | Competitive intensity rising — advantage eroding |
+| One player deeply negative while others profit | Disruptor buying growth, or a failing business |
+| All players thin (<5% operating) | Commodity market — no one has pricing power |
+
+**How to assess:**
+- For each player, look at the income statement and key metrics (~5 years) — revenue, margins, ROIC — plus the cash-flow statement for FCF.
+- Build a side-by-side table; track whether the margin spread is widening or narrowing over 3–5 years.
+
+---
+
+## Step 3: Market Share & Structure
+
+**Key question: how concentrated is the market, and who leads?**
+
+Combine current share with the structure it implies — the two answer the same question (how power is distributed) and are best read together.
+
+| Share Signal | Structure Implied |
+|---|---|
+| Top player 30%+ | Dominant leader — pricing power and scale |
+| Top 3 combined 70%+ | Concentrated — oligopoly dynamics |
+| No player above 15% | Fragmented — competition on differentiation/geography |
+| HHI >2500 / 1500–2500 / <1500 | Highly concentrated / moderately / unconcentrated |
+
+| Structure | Profit Implication |
+|---|---|
+| **Monopoly** (one player 70%+) | Highest sustainable margins; regulatory risk |
+| **Duopoly** (two players 70%+) | High margins if pricing stays rational; fragile if one defects |
+| **Oligopoly** (3–5 players 70%+) | Above-average margins with stable structure |
+| **Monopolistic competition** (many, differentiated) | Moderate margins; depends on differentiation strength |
+| **Fragmented / commodity** (many, undifferentiated) | Low margins, price-driven, consolidation opportunity |
+
+**How to assess:**
+- Check filings, transcripts, and industry sources for share data and the industry size/TAM.
+- Look at revenue segmentation (product & geographic) to see where revenue concentrates — dominance may be narrower than headline share.
+- Estimate HHI as the sum of squared shares of all players; cross-check company revenue against industry TAM.
+
+---
+
+## Step 4: Product Differentiation
+
+**Key question: is the product differentiated or a commodity?**
+
+Building on the margin (Step 2) and structure (Step 3) read, classify each major product line on the differentiation–commodity spectrum. Differentiated products command pricing power and defend margins; commodities compete on price and cost. A company can span both — assess each product type separately.
+
+| Class | Signals | Investment Read |
+|---|---|---|
+| **Differentiated** | Brand premium, proprietary technology/IP, performance lead, design-wins, customization, high switching costs | Pricing power and durable margins — competes on value |
+| **Semi-differentiated** | Some technical edge or brand, but credible substitutes exist | Moderate pricing power; the edge must be continually renewed |
+| **Commodity** | Interchangeable specs, standardized, price is the main lever, thin margins | Cost leadership is the only edge — competes on price |
+
+| Signal | Interpretation |
+|---|---|
+| Gross margin well above commodity peers, stable | Real differentiation — customers pay up |
+| ASP premium vs comparable products | Brand or technology differentiation |
+| Frequent price-based RFPs / spot pricing | Commodity dynamics |
+| Long design-in / qualification cycles | Differentiation via switching costs |
+| Product spec'd by brand vs by generic standard | Differentiated vs commodity |
+
+**How to assess:**
+- List each major product/segment from revenue segmentation.
+- Check filings and transcripts for differentiation language (pricing premium, design wins, ASP, commodity).
+- Cross-check Step 2 margins: differentiated products carry structurally higher, more stable gross margins than commodity peers.
+- Check product reviews/benchmarks vs competitors to gauge a real performance lead.
+
+---
+
+## Step 5: Historical Change in Share & Structure
+
+**Key question: which way is the market moving?**
+
+The trajectory matters more than the snapshot. Track both who is gaining/losing share and whether the structure itself is shifting.
+
+| Signal | Interpretation |
+|---|---|
+| Subject gaining 1–2 pts/year consistently | Secular share gain — strong position |
+| Share stable 5+ years across top players | Mature market at equilibrium |
+| Share shifting 5+ pts in 2–3 years | Disruption underway — find the cause |
+| Smaller players gaining on the leader | Commoditization or disruption of the leader's edge |
+| Share gains tied to pricing concessions | Unprofitable growth — buying share, not earning it |
+| Recent large M&A / PE roll-ups | Consolidation — structure concentrating |
+| Antitrust action / forced divestitures | Structure may be forced to fragment |
+
+**How to assess:**
+- Look at each competitor's income statement (~10 years) — relative growth vs the industry reveals share shifts (grow faster than the market = gaining share).
+- Check transcripts for share/M&A commentary.
+- Check industry sources for multi-year data and structural events (M&A, consolidation).
+- Track the count of meaningful competitors over time — a declining count signals consolidation.
+
+---
+
+## Step 6: Industry Capex & Capacity
+
+**Key question: is new supply coming?**
+
+Capex is the leading indicator of future supply. When an industry ramps capex, new capacity arrives in 2–3 years — often pressuring pricing and margins. This is the core forward-supply signal.
+
+| Signal | Interpretation |
+|---|---|
+| Industry capex/revenue rising sharply | Capacity expansion cycle — future supply may pressure pricing |
+| One company ramping while peers hold | Aggressive share grab or new-market entry |
+| Capex/revenue declining industry-wide | Underinvestment — capacity tightens, prices may firm |
+| Capex/depreciation >1.5x for 3+ years | Net capacity additions — growing or over-building |
+| Capex/depreciation <1.0x | Harvesting — not replacing capacity, potential shortage |
+
+| Capex Cycle Phase | Investment Implication |
+|---|---|
+| **Early expansion** (first movers ramp) | Best risk/reward — limited supply response yet |
+| **Mid-cycle** (broad building) | Pricing holds, but future supply risk building |
+| **Late cycle / over-build** (capex at highs, utilization dipping) | Pricing pressure imminent — margin risk ahead |
+| **Trough / rationalization** (cuts, closures, write-downs) | Supply tightening — pricing improves for survivors |
+
+**How to assess — run this for *each* competitor, not just the subject company:**
+1. From the cash-flow statement (last 4 quarters), take investing cash flow and capex. Track the quarterly trend (rising/flat/falling) and compute capex/revenue and capex/depreciation (depreciation from the income statement).
+2. Check earnings transcripts for capacity commentary. Pull out specifically:
+   - **Are they expanding capacity?** (yes/no, and how much)
+   - **Which product / segment** is getting the added capacity?
+   - **When does it come online?** (target quarter/year for production start)
+3. Check industry sources to corroborate announcements and find who is investing most aggressively.
+
+Record each competitor's quarterly investing cash flow and capacity-expansion commentary in the JSON output below.
+
+---
+
+## Step 7: Disruption — New Entrants & New Technology
+
+**Key question: what could reshape the industry?**
+
+Two forces break an established structure: new entrants clearing the barriers, and new technology changing the basis of competition. Assess both.
+
+### New Entrants
+
+| Barrier | What Holds Entrants Out |
+|---|---|
+| Capital requirements | $1B+ upfront / high minimum efficient scale |
+| Regulatory / licensing | Multi-year approvals (pharma, banking, telecom) |
+| Technology / IP | Patents, R&D intensity, trade secrets |
+| Network effects | Entrants start with zero users |
+| Brand / switching costs | Customer loyalty and cost to switch |
+
+| Entrant Signal | Interpretation |
+|---|---|
+| No meaningful entrant in 5+ years | High barriers — incumbents protected |
+| Well-funded startups (VC-backed, $100M+) | Barriers lower than assumed — monitor |
+| Adjacent tech giants entering (Amazon, Google…) | Serious threat — deep pockets, existing customers |
+| New entrant already taking 5%+ in 2–3 years | Barriers were lower than expected |
+
+### New Technology
+
+| Tech-Disruption Signal | Interpretation |
+|---|---|
+| New tech substitutes the product outright | Existential — demand may migrate away entirely |
+| New tech collapses the cost curve | Low-cost entrants undercut incumbents (e.g., software replacing hardware) |
+| New tech shifts the business model | Value migrates (e.g., ownership → subscription, on-prem → cloud) |
+| Incumbents lack the new capability in-house | High exposure — late and expensive to catch up |
+| Incumbents already investing/acquiring into it | Lower exposure — adapting ahead of the curve |
+
+**How to assess:**
+- Check industry sources for entrant and technology threats (new startups, VC funding, substitutes, next-generation technology).
+- Check filings and transcripts for management's view of competitive threats, barriers to entry, and technology disruption (e.g., the 10-K risk factors on competition and new technology).
+- Gauge incumbent exposure: does the subject company own the new capability, or is it defending the old basis of competition?
+
+---
+
+## Red Flags & Green Flags
+
+| Green Flags | Red Flags |
+|---|---|
+| Stable or gaining share over 3–5 years | Losing share consistently, especially to smaller players |
+| Oligopoly with rational pricing | Fragmented market, no one earning above-average margins |
+| Gross margin 10+ pts above median; spread widening | Margins converging with peers — moat eroding |
+| High entry barriers; no entrant in 5+ years | Well-funded entrants or tech giants already taking share |
+| Industry capex/revenue stable or declining | Industry-wide capex surge — capacity glut risk |
+| Company owns the disruptive technology | New technology substituting or undercutting the product |
+
+---
+
+## Output Schema
+
+Output the final synthesis as a single JSON object. Omit any field where data is unavailable rather than guessing. For every assessment, populate evidence/source fields with the specific data point and where it came from (e.g., "financial data", "FY2024 10-K", "industry report"). The `overall_verdict.key_evidence` holds one concise line — the single strongest data point (with its period) behind the competitive-position verdict — so a downstream synthesis agent can carry the proof through, not just the rating.
+
+```json
+{
+  "competitive_set": [
+    {
+      "company": "",
+      "ticker": "",
+      "type": "Core | Direct | Adjacent | Upstream | International",
+      "geography": "",
+      "is_public": true
+    }
+  ],
+
+  "competitor_comparison": {
+    "players": [
+      {
+        "company": "",
+        "revenue_b": null,
+        "revenue_cagr_3y_pct": null,
+        "gross_margin_pct": null,
+        "op_margin_pct": null,
+        "net_margin_pct": null,
+        "fcf_margin_pct": null,
+        "roic_pct": null,
+        "margin_trend_3y": "Expanding | Stable | Compressing"
+      }
+    ],
+    "subject_company_rank": "Leader | Strong #2 | Mid-pack | Laggard",
+    "margin_observation": ""
+  },
+
+  "market_share_and_structure": {
+    "classification": "Monopoly | Duopoly | Oligopoly | Monopolistic competition | Fragmented",
+    "top_player_share_pct": null,
+    "top3_combined_share_pct": null,
+    "estimated_hhi": null,
+    "pricing_behavior": "Rational | Competitive | Price war | Unknown",
+    "players": [
+      {
+        "company": "",
+        "estimated_share_pct": null,
+        "source": ""
+      }
+    ],
+    "summary": ""
+  },
+
+  "product_differentiation": {
+    "products": [
+      {
+        "product_or_segment": "",
+        "classification": "Differentiated | Semi-differentiated | Commodity",
+        "differentiation_basis": "Brand | Technology/IP | Performance | Customization | Switching costs | None| others",
+        "asp_premium_vs_peers": null,
+        "gross_margin_pct": null,
+        "evidence": "",
+        "source": ""
+      }
+    ],
+    "overall": "Mostly differentiated | Mixed | Mostly commodity",
+    "observation": ""
+  },
+
+  "historical_change": {
+    "share_trend": [
+      {
+        "company": "",
+        "trend_3_5y": "Gaining | Stable | Losing",
+        "share_change_pts": null
+      }
+    ],
+    "structure_trajectory": "Stable | Consolidating | Fragmenting | At risk",
+    "trajectory_driver": "",
+    "summary": ""
+  },
+
+  "capex_and_capacity": {
+    "competitors": [
+      {
+        "company": "",
+        "ticker": "",
+        "investing_cash_flow_last_4q": [
+          { "quarter": "", "investing_cash_flow": null, "capex": null }
+        ],
+        "investing_cf_trend": "Rising | Flat | Falling",
+        "capex_to_revenue_pct": null,
+        "capex_to_depreciation": null,
+        "is_expanding_capacity": null,
+        "capacity_product_or_segment": "",
+        "capacity_online_timing": "",
+        "management_quote": "",
+        "source": ""
+      }
+    ],
+    "industry_avg_capex_to_revenue_pct": null,
+    "capex_to_revenue_trend": "Rising | Stable | Declining",
+    "cycle_position": "Early expansion | Mid-cycle | Late cycle | Trough",
+    "most_aggressive_investor": "",
+    "dominant_capex_purpose": "Maintenance | Expansion | Technology | Market entry | Defensive",
+    "supply_pricing_implication_2_3y": ""
+  },
+
+  "disruption": {
+    "new_entrants": {
+      "barriers": {
+        "capital_requirements": "High | Moderate | Low",
+        "regulatory_licensing": "High | Moderate | Low",
+        "technology_ip": "High | Moderate | Low",
+        "network_effects": "High | Moderate | Low",
+        "brand_switching_costs": "High | Moderate | Low"
+      },
+      "last_meaningful_entrant_year": null,
+      "active_threats": "",
+      "adjacent_giant_risk": ""
+    },
+    "new_technology": {
+      "disruptive_tech": "",
+      "threat_type": "Substitution | Cost-curve shift | Business-model shift | None",
+      "incumbent_exposure": "High | Moderate | Low",
+      "timeline": "Near-term | Medium-term | Long-term"
+    },
+    "verdict": "Low | Moderate | High",
+    "verdict_rationale": ""
+  },
+
+  "flags": {
+    "green": [],
+    "red": []
+  },
+
+  "overall_verdict": {
+    "competitive_position": "Dominant | Strong | Contested | Weak",
+    "market_attractiveness": "Attractive | Neutral | Challenging",
+    "biggest_supply_risk": "",
+    "key_uncertainty": "",
+    "key_evidence": "",
+    "bottom_line": ""
+  }
+}
+```
